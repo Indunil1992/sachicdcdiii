@@ -1,0 +1,72 @@
+{
+  "EDITOR_STATE": {
+    "allProjectFiles": {
+      "f3156e55-d0f2-4b44-94ae-8c9e48f20293": {
+        "id": "f3156e55-d0f2-4b44-94ae-8c9e48f20293",
+        "parent": null,
+        "name": "sachiiii.js",
+        "type": "JS_LAMBDA",
+        "isDirectory": false,
+        "children": [],
+        "isRemovable": true,
+        "filePath": "sachiiii.js",
+        "cursor": {
+          "lineNumber": 3,
+          "column": 43
+        },
+        "config": {
+          "runtime": "nodejs10.x",
+          "handler": "handler",
+          "timeout": 60,
+          "memory": 128,
+          "layers": [],
+          "name": "sachiiii"
+        },
+        "triggers": [],
+        "lastUpdated": 1611724029128
+      }
+    },
+    "openFiles": [
+      "f3156e55-d0f2-4b44-94ae-8c9e48f20293"
+    ],
+    "currentFileId": "f3156e55-d0f2-4b44-94ae-8c9e48f20293",
+    "resources": {},
+    "customTemplate": {
+      "syntax": "JSON",
+      "overrideDefault": false,
+      "dialect": null,
+      "definitions": null
+    },
+    "envVariables": [
+      {
+        "lambdaId": "all",
+        "varKey": "SIGMA_AWS_ACC_ID",
+        "varValue": null,
+        "shouldPersist": false,
+        "displayOnly": false,
+        "editable": false
+      }
+    ],
+    "packageJSON": {
+      "dependencies": {}
+    }
+  },
+  "PROJECT_META": {
+    "sigmaVersion": "1.5.2",
+    "projectName": "sachiiii",
+    "projectDescription": "",
+    "projectVersion": "1.0.0",
+    "projectRegion": "us-east-1",
+    "platform": "AWS",
+    "language": "nodejs",
+    "platformRegions": {},
+    "lastSave": 1611724168428
+  },
+  "VCS_STATE": {
+    "provider": "GitHub",
+    "repo": {
+      "name": "sachicdcdiii",
+      "url": "https://github.com/Indunil1992/sachicdcdiii"
+    }
+  }
+}
